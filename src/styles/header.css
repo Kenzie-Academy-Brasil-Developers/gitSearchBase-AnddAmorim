@@ -16,6 +16,13 @@
   gap: 20px;
 }
 
+.profile__img{
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid var(--color-brand-2);
+}
+
+
 .profile_div p {
   font-size: 1.6rem;
   font-weight: 700;

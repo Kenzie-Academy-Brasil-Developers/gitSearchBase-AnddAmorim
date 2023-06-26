@@ -15,7 +15,14 @@
   border: 2px solid rgba(255, 255, 255, 0.6);
   border-radius: 8px;
   max-width: 360px;
+  width: 40%;
+  height: 140px;
 }
+
+.profile__ul li:hover{
+background-color: var(--color-grey-1);
+}
+
 .profile__ul li h4 {
   font-size: 1.2rem;
   font-weight: 500;
